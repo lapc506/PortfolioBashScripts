@@ -1,4 +1,4 @@
-# macOS_Upgrade_Reboot_Deferral_with_Jamf_Parameters_Intel_Macs.sh
+# macOS Upgrade Reboot Deferral with Jamf Parameters Intel Macs.sh
 
 _Works only when deploying this script using a policy for Intel-based Macs only._
 
